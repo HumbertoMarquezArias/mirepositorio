@@ -1,0 +1,8 @@
+1 panel
+2-------
+3 incluir el logo
+4 opciones de perfil y salir
+5 barra de opciones lateral
+6 el estado de la informacion de productos
+7 pie de pagina
+8
